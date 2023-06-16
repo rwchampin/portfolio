@@ -1,0 +1,11 @@
+{
+    "directories": [
+      "./src/components",
+      "./src/app",
+      "./src/particles",
+      "./src/state",
+      "./src/utils",
+      "./src/ai"
+    ]
+  }
+  
